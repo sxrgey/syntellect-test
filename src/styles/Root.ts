@@ -6,8 +6,9 @@ const Root = styled(Box)`
   display: flex;
   flex-direction: column;
   align-items: center;
+  gap: 4rem;
 
-  padding: 16px;
+  padding: 3rem;
 `;
 
 export default Root;

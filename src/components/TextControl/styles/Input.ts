@@ -16,7 +16,7 @@ const Input = styled(TextField)`
   }
 
   .MuiInput-underline:after {
-    border-bottom: 2px solid rgb(184, 89, 82);
+    border-bottom: 2px solid rgb(48, 125, 64);
   }
 `;
 
